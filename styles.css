@@ -1,3 +1,7 @@
+* {
+  color: black;
+}
+
 html {
   padding: 0;
   margin: 0;
@@ -7,7 +11,6 @@ html {
 }
 
 main {
-  background: #4f5953;
   margin: 0 auto;
   height: 500px;
   width: 50%;
@@ -19,7 +22,6 @@ main {
 h1 {
   font-size: 40px;
   text-transform: uppercase;
-  color: white;
 }
 
 .counter-container {
@@ -33,7 +35,6 @@ h1 {
   font-size: 100px;
   display: block;
   margin: 10px;
-  color: white;
 }
 .btn {
   width: fit-content;
